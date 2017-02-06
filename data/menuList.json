@@ -1,0 +1,31 @@
+{
+    "body": {
+        "annual_id": "1",
+        "area": "A区",
+        "area_pic": "frames/yyyy",
+        "background_pic": "frames /xxxxx",
+        "flowList": [
+            {
+                "flow_memo": "领导讲话",
+                "flow_time": 1453870800000
+            },
+            {
+                "flow_memo": "先进员工颁奖",
+                "flow_time": 1453874400000
+            },
+            {
+                "flow_memo": "演出开始",
+                "flow_time": 1453876200000
+            },
+            {
+                "flow_memo": "演出结束",
+                "flow_time": 1453883400000
+            }
+        ],
+        "show_address": " 滨江大剧院",
+        "show_time": "2016-01-26 13:30:00",
+        "welcome_memo": "欢迎您嘞"
+    },
+    "code": 0,
+    "msg": "成功"
+}
